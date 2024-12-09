@@ -106,9 +106,9 @@ https://codeval.polesante.ulb.be/
 
 ### 🛠️ Outils de Développement
 
-TypeScript : Typage statique pour un développement sécurisé.
-ESLint : Linting pour un code propre et cohérent.
-Prettier : Formatage automatique du code.
+- TypeScript : Typage statique pour un développement sécurisé.
+- ESLint : Linting pour un code propre et cohérent.
+- Prettier : Formatage automatique du code.
 
 ## 📖 Documentation des Pages
 
