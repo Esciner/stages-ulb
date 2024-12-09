@@ -46,7 +46,7 @@ ULB Stages Attribution est une application web développée avec **Next.js** pou
 1. Clonez le dépôt :
    ```bash
    git clone https://github.com/Esciner/stages-ulb.git
-   cd ulb-stages-attribution
+   cd stages-ulb
    ```
 2. Installez les dépendances :
 
