@@ -45,7 +45,7 @@ ULB Stages Attribution est une application web développée avec **Next.js** pou
 
 1. Clonez le dépôt :
    ```bash
-   git clone https://github.com/votre-repo/ulb-stages-attribution.git
+   git clone https://github.com/Esciner/stages-ulb.git
    cd ulb-stages-attribution
    ```
 2. Installez les dépendances :
@@ -57,7 +57,8 @@ ULB Stages Attribution est une application web développée avec **Next.js** pou
 
    ```
 
-3. Configurez les variables d'environnement : Créez un fichier .env.local à la racine et ajoutez les variables suivantes :
+3. Configurez les variables d'environnement en
+   créant un fichier .env.local à la racine et ajoutez les variables suivantes :
    ```env
    API_URL=https://codeval.polesante.ulb.be
    API_AUTH_TOKEN=<your-token-with-escaped-with-slash-for-special-char>
